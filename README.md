@@ -24,11 +24,12 @@ Write, select, delete, cut, copy, paste, press **home**, press **pos1**...
 
 ### Used Tools
 
-* [Resharper][resharper]
+* [Resharper][https://www.jetbrains.com/resharper/]
+* [MonoGame](http://www.monogame.net/)
+* You can easily get rid of the `Primitives2D.cs` class. It's only there to draw the outline of the textbox in the demo.
 
 
 
 [homepage]: http://www.unterrainer.info
 [coding]: http://www.unterrainer.info/Home/Coding
 [github]: https://github.com/UnterrainerInformatik/MonoGame-Textbox
-[resharper]: https://www.jetbrains.com/resharper/
