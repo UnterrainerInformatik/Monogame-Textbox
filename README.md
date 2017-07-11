@@ -20,7 +20,7 @@ Nuget should take care about the rest...
 
 Write, select, delete, cut, copy, paste, press **home**, press **pos1**...
 
-![Screenshot](C:\Source\MonoGame-Textbox\Textbox-Test.png)
+![Screenshot](https://github.com/UnterrainerInformatik/MonoGame-Textbox/blob/master/Textbox-Test.png)
 
 ### Used Tools
 
