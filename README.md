@@ -18,6 +18,17 @@ An editable, multi-language, event-driven textbox for MonoGame that supports sel
 Clone the repository and run the project `Textbox-Test` as startup project.
 Nuget should take care about the rest...
 
+Write, select, delete, cut, copy, paste, press **home**, press **pos1**...
+
+![Screenshot](C:\Source\MonoGame-Textbox\Textbox-Test.png)
+
+### Used Tools
+
+* [Resharper][resharper]
+
+
+
 [homepage]: http://www.unterrainer.info
 [coding]: http://www.unterrainer.info/Home/Coding
 [github]: https://github.com/UnterrainerInformatik/MonoGame-Textbox
+[resharper]: https://www.jetbrains.com/resharper/
