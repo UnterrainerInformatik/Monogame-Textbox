@@ -1,7 +1,7 @@
 [![NuGet](https://img.shields.io/nuget/v/MonoGame-Textbox.svg?maxAge=2592000)](https://www.nuget.org/packages/MonoGame-Textbox/)
  [![license](https://img.shields.io/github/license/unterrainerinformatik/MonoGame-Textbox.svg?maxAge=2592000)](http://unlicense.org)  [![Twitter Follow](https://img.shields.io/twitter/follow/throbax.svg?style=social&label=Follow&maxAge=2592000)](https://twitter.com/throbax)  
 
-# General  
+# General
 
 This section contains various useful projects that should help your development-process.  
 
@@ -11,7 +11,8 @@ In order to get help with basic GIT commands you may try [the GIT cheat-sheet][c
 This repository located on our  [homepage][homepage] is private since this is the master- and release-branch. You may clone it, but it will be read-only.  
 If you want to contribute to our repository (push, open pull requests), please use the copy on github located here: [the public github repository][github]  
 
-# Monogame-Textbox
+# ![Icon](https://github.com/UnterrainerInformatik/splitstopwatch/raw/master/icon.png)Monogame-Textbox
+
 An editable, multi-language, event-driven textbox for MonoGame that supports selection, special characters, SHIFT-CTRL combinations with cursor-keys and cut/copy/paste.
 
 ## Getting Started
