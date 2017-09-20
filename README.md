@@ -11,11 +11,12 @@ In order to get help with basic GIT commands you may try [the GIT cheat-sheet][c
 This repository located on our  [homepage][homepage] is private since this is the master- and release-branch. You may clone it, but it will be read-only.  
 If you want to contribute to our repository (push, open pull requests), please use the copy on github located here: [the public github repository][github]  
 
-# ![Icon](https://github.com/UnterrainerInformatik/splitstopwatch/raw/master/icon.png)Monogame-Textbox
+# ![Icon](https://github.com/UnterrainerInformatik/Monogame-Textbox/raw/master/icon.png)Monogame-Textbox
 
 An editable, multi-language, event-driven textbox for MonoGame that supports selection, special characters, SHIFT-CTRL combinations with cursor-keys and cut/copy/paste.
 
 ## Getting Started
+
 Clone the repository and run the project `Textbox-Test` as startup project.
 Nuget should take care about the rest...
 
