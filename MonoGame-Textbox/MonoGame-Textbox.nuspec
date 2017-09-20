@@ -7,6 +7,7 @@
     <authors>Unterrainer Informatik OG Team</authors>
     <owners>Public Domain</owners>
     <licenseUrl>http://unlicense.org</licenseUrl>
+	<iconUrl>https://github.com/UnterrainerInformatik/Monogame-Textbox/raw/master/icon.png</iconUrl>
     <projectUrl>https://github.com/UnterrainerInformatik/MonoGame-Textbox</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
 	<developmentDependency>true</developmentDependency>
