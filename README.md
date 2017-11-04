@@ -15,6 +15,11 @@ If you want to contribute to our repository (push, open pull requests), please u
 
 This is a PCL that provides an editable, multi-language, event-driven textbox for MonoGame that supports selection, special characters, SHIFT-CTRL combinations with cursor-keys and cut/copy/paste.
 
+> **If you like this repo, please don't forget to star it.**
+> **Thank you.**
+
+
+
 ## Getting Started
 
 Clone the repository and run the project `Textbox-Test` as startup project.
