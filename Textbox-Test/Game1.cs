@@ -46,24 +46,11 @@ namespace Textbox_Test
 
         public Game1()
         {
-            graphics = new GraphicsDeviceManager(this);
+            GraphicsDeviceManager graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
 
             // Initialize the keyboard-event handler.
             KeyboardInput.Initialize(this, 500f, 20);
-        }
-
-        /// <summary>
-        ///     Allows the game to perform any initialization it needs to before starting to run.
-        ///     This is where it can query for any required services and load any non-graphic
-        ///     related content.  Calling base.Initialize will enumerate through any components
-        ///     and initialize them as well.
-        /// </summary>
-        protected override void Initialize()
-        {
-            // TODO: Add your initialization logic here
-
-            base.Initialize();
         }
 
         /// <summary>
@@ -80,15 +67,6 @@ namespace Textbox_Test
             viewport = new Rectangle(50, 50, 400, 200);
             textBox = new TextBox(viewport, 200, "This is a test. Move the cursor, select, delete, write...",
                 GraphicsDevice, font, Color.LightGray, Color.DarkGreen, 30);
-        }
-
-        /// <summary>
-        ///     UnloadContent will be called once per game and is the place to unload
-        ///     game-specific content.
-        /// </summary>
-        protected override void UnloadContent()
-        {
-            // TODO: Unload any non ContentManager content here
         }
 
         /// <summary>
@@ -112,7 +90,7 @@ namespace Textbox_Test
             textBox.Renderer.Color = Color.White;
             textBox.Cursor.Selection = new Color(Color.Purple, .4f);
 
-            float lerpAmount = (float) (gameTime.TotalGameTime.TotalMilliseconds % 500f/500f);
+            float lerpAmount = (float) (gameTime.TotalGameTime.TotalMilliseconds % 500f / 500f);
             textBox.Cursor.Color = Color.Lerp(Color.DarkGray, Color.LightGray, lerpAmount);
 
             textBox.Active = true;

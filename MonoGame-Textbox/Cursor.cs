@@ -75,7 +75,7 @@ namespace MonoGame_Textbox
                 }
             }
         }
-        
+
         private readonly TextBox textBox;
 
         private int textCursor;

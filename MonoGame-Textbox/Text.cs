@@ -156,6 +156,7 @@ namespace MonoGame_Textbox
                 throw new ArgumentException("Character limit of " + MaxLength + " exceeded.");
             }
         }
+
         // ReSharper restore UnusedParameter.Local
     }
 }

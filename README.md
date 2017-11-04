@@ -13,7 +13,7 @@ If you want to contribute to our repository (push, open pull requests), please u
 
 # ![Icon](https://github.com/UnterrainerInformatik/Monogame-Textbox/raw/master/icon.png)Monogame-Textbox
 
-An editable, multi-language, event-driven textbox for MonoGame that supports selection, special characters, SHIFT-CTRL combinations with cursor-keys and cut/copy/paste.
+This is a PCL that provides an editable, multi-language, event-driven textbox for MonoGame that supports selection, special characters, SHIFT-CTRL combinations with cursor-keys and cut/copy/paste.
 
 ## Getting Started
 
